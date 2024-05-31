@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "Idle (32x32).png",
+	"frame": {"x":0,"y":0,"w":352,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":32},
+	"sourceSize": {"w":352,"h":32}
+},
+{
+	"filename": "Run (32x32).png",
+	"frame": {"x":352,"y":0,"w":384,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":32},
+	"sourceSize": {"w":384,"h":32}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ninjaSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":736,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:930cee67394da8d9e0b476ccd2720b21:97cfcc9ed1bb589b92bebf1ad4f887ee:6d7ac1b281ceb63c6aaa2d818b7b916c$"
+}
+}
